@@ -14,8 +14,7 @@
     "noEmitOnError": true,
     "sourceMap": true,
     "types": [
-      "node",
-      "jest"
+      "node"
     ],
     "isolatedModules": true
   },
